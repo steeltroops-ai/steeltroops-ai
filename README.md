@@ -2,12 +2,15 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=steeltroops-ai&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=steeltroops-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steeltroops-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=false" alt="Spotify recently played"  />
 </div>
 
 ###
@@ -30,6 +33,16 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/steeltroops-ai/steeltroops-ai/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -38,21 +51,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<div align="right">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kcq3r4acb4sr4xghbkh2p5bjru&unique={true|1|on|yes})">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/steeltroops-ai/steeltroops-ai/output/snake.svg" alt="Snake animation" />
 
 ###
