@@ -3,12 +3,10 @@
   <a href="linktr.ee/steeltroops"><img src="./bannerc.jpg" alt="Banner"></a>
 </p>
 
-# 
-
-
-# 
 <h2>  Fancy seeing you here...</h2>
-<h1 align="center">[<img src="https://64.media.tumblr.com/7d4cf400be9f42a39e3f9195bde8039c/e47bec4ac932def5-4e/s1280x1920/859f46c8c612e2d3d7e2a71f8d071fc343081f4d.jpg" height="110px">](linktr.ee/steeltroops) Hi there!👋⠀| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=d44040&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
+
+
+# <h1 align="center">[<img src="https://64.media.tumblr.com/7d4cf400be9f42a39e3f9195bde8039c/e47bec4ac932def5-4e/s1280x1920/859f46c8c612e2d3d7e2a71f8d071fc343081f4d.jpg" height="110px">](linktr.ee/steeltroops) Hi there!👋⠀| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=d44040&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
 </h1>
 
 
