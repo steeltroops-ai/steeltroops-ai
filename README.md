@@ -83,10 +83,16 @@
 <img src="https://raw.githubusercontent.com/steeltroops-ai/steeltroops-ai/output/snake.svg" alt="Snake animation" />
 
 ###
+ 
+<br clear="both"> 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/steeltroops"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="steeltroops" /></a></p><br><br>
+
+
+<br clear="both"> 
 ## Songs Listening to right now
 
-<br clear="both">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=d44040&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
 
