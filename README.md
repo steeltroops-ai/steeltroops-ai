@@ -84,6 +84,9 @@
 
 ###
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=steeltroops-ai&theme=react-dark"/>
+
 ## Songs Listening to right now
 
 <br clear="both">
@@ -96,6 +99,3 @@
 <p><a href="https://ko-fi.com/steeltroops"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="steeltroops" /></a></p><br><br>
 
 
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/steeltroops_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="steeltroops_ai" height="30" width="40" /></a><a href="https://linkedin.com/in/steeltroops-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="steeltroops-ai" height="30" width="40" /></a><a href="https://www.youtube.com/c/steeltroops" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="steeltroops" height="30" width="40" /></a><a href="https://instagram.com/steeltroops_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="steeltroops_ai" height="30" width="40" /></a></p>
