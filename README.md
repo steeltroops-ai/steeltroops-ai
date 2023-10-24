@@ -19,30 +19,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="Center">Stars</h3>
-<div align="center">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeltroops-ai&layout=compact&theme=nightowl" alt=steeltroops-ai />
-
-<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=steeltroops-ai&theme=nightowl" alt="steeltroops-ai" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/steeltroops-ai">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steeltroops-ai&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steeltroops-ai&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steeltroops-ai&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steeltroops-ai&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steeltroops-ai&theme=2077" height="176em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">⚡Activity Graph </h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=steeltroops-ai&theme=nightowl"/>
-<br clear="both">
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">
@@ -76,7 +52,42 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+<h3 align="Center">Stars</h3>
+<div align="center">
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeltroops-ai&layout=compact&theme=nightowl" alt=steeltroops-ai />
+
+<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=steeltroops-ai&theme=nightowl" alt="steeltroops-ai" />
+
+</div>
+
+
+
+<h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/steeltroops-ai">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steeltroops-ai&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steeltroops-ai&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steeltroops-ai&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steeltroops-ai&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steeltroops-ai&theme=2077" height="176em" />
+</div>
+
+
+<h2 align="center">⚡Activity Graph </h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=steeltroops-ai&theme=nightowl"/>
+<br clear="both">
+
+
 
 <h3 align="Center">connect with me</h3>
 <br clear="both">
@@ -96,7 +107,10 @@
   <a href="https://www.linkedin.com/in/steeltroops-ai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 
-![Snake animation](https://github.com/steeltroops-ai/steeltroops-ai/blob/output/github-contribution-grid-snake.svg)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
 <h3>Support:</h3>
