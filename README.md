@@ -1,20 +1,24 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
-# <p align="center">
-  <a href="linktr.ee/steeltroops"><img src="./bannerc.jpg" alt="Banner"></a>
-  
+<p align="center">
+  <a href="linktr.ee/steeltroops"><img src="./bannerc.jpg" alt="Banner"></a> 
   <h2 align="center">  Fancy seeing you here...</h2>
-  
-  # <h1 align="center"><code>[<img src="https://64.media.tumblr.com/7d4cf400be9f42a39e3f9195bde8039c/e47bec4ac932def5-4e/s1280x1920/859f46c8c612e2d3d7e2a71f8d071fc343081f4d.jpg" height="110px" style="border-radius:2px;">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
-
 </p>
 
+# <h1 align="center"><code>[<img src="https://64.media.tumblr.com/7d4cf400be9f42a39e3f9195bde8039c/e47bec4ac932def5-4e/s1280x1920/859f46c8c612e2d3d7e2a71f8d071fc343081f4d.jpg" height="110px" style="border-radius:2px;">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
 
 
 
 <div width=100%>
 <div align="left">
+<div align = "right">
+<img style="border-radius:5px;"  height="175"  src="./Hodaka.gif" />
 
-<img align="right" style="border-radius:5px;"  height="175"  src="./Hodaka.gif" />
+<div width="50px">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
+
+</div>
+</div>
 
 👋 About Me:<br>Passionate programmer and tech enthusiast on a journey to explore the endless possibilities of the digital world. My motto: "Code. Create. Innovate."<br><br>🚀 Currently working on:<br>🌐 Building an immersive metaverse platform with a focus on VR, gaming, and AI.<br>🌍 Developing cutting-edge solutions at my startup, Inexia, where I wear multiple hats as a Founder, Unreal Engine 5 Developer, 3D Modeler, and Web Developer.<br><br>🌟 I'm looking to collaborate on:<br>💡 Open-source projects that push the boundaries of technology.<br>🔗 Exciting web development ventures and interactive applications.<br><br>🆘 I'm looking for help with:<br>🤝 Scaling my startup and reaching new heights.<br>🚀 Optimizing VR and gaming experiences for a metaverse future.<br><br>📚 I'm currently learning:<br>🌈 Exploring quantum computing and its potential applications.<br>💻 Advancing my machine learning and AI skills.<br><br>❓ Ask me about:<br>🔮 The future of VR, gaming, and metaverse technology.<br>🌐 Web development, 3D modeling, and building virtual worlds.<br>🤖 Machine learning and its real-world impact.<br><br>✨ Fun fact:<br>🎮 When not coding, you'll find me mastering epic boss fights in video games or crafting intricate 3D models. The metaverse is my playground!<br><br>Let's connect and innovate together!<br>
 </div>
