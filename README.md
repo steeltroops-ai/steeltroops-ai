@@ -61,19 +61,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-
-
-<h3 align="Center">Stars</h3>
-<div align="center">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeltroops-ai&layout=compact&theme=nightowl" alt=steeltroops-ai />
-
-<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=steeltroops-ai&theme=nightowl" alt="steeltroops-ai" />
-
-</div>
-
-
-
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/steeltroops-ai">
@@ -85,10 +72,21 @@
 </div>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<h3 align="Center">Stars</h3>
+<div align="center">
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeltroops-ai&layout=compact&theme=nightowl" alt=steeltroops-ai />
+
+<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=steeltroops-ai&theme=nightowl" alt="steeltroops-ai" />
+
+</div>
+
+
 <h2 align="center">⚡Activity Graph </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=steeltroops-ai&theme=nightowl"/>
 <br clear="both">
-
 
 
 <h3 align="Center">connect with me</h3>
@@ -108,7 +106,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/steeltroops-ai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-
 
 
 ### ✍️ Random Dev Quote
