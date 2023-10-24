@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right" height="200">
   <a href="linktr.ee/steeltroops"><img src="./Hodaka.gif" alt="Banner"></a>
 </p>
 
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif"  />
+<img align="right" height="200" src="./Hodaka.gif"  />
 
 ###
 
