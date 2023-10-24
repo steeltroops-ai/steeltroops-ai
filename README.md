@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<h4>Connect with me:<h4>
+<h3>Connect with me:<h3>
   <a href="https://www.linkedin.com/in/steeltroops-ai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -112,10 +112,10 @@
 
 
 
-<h3>Support my work:</h3>
+<h2>Support my work:</h2>
 <p><a href="https://ko-fi.com/steeltroops"> <img  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="steeltroops" /></a></p><br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
 
 </div>
 
