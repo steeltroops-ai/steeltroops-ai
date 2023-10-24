@@ -4,69 +4,24 @@
   <h2 align="center">  Fancy seeing you here...</h2>
 </p>
 
-# <h1 align="center"><code>[<img src="https://64.media.tumblr.com/7d4cf400be9f42a39e3f9195bde8039c/e47bec4ac932def5-4e/s1280x1920/859f46c8c612e2d3d7e2a71f8d071fc343081f4d.jpg" height="110px" style="border-radius:2px;">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
+# <h1 align="center"><code>[<img style="border-radius: 5px;" height=125 src="./mayank.jpeg ">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
 
 
+<div align="left">
+
+<img style="border-radius: 5px;" height="207" src="./Hodaka.gif" />
 
 
-
-<div align="center">
-
-  <div style="text-align: left; float: left; width: 70%;">
-    
-    👋 About Me:<br>
-    Passionate programmer and tech enthusiast on a journey to explore the endless possibilities of the digital world. My motto: "Code. Create. Innovate."<br><br>
-    
-    🚀 Currently working on:<br>
-    🌐 Building an immersive metaverse platform with a focus on VR, gaming, and AI.<br>
-    🌍 Developing cutting-edge solutions at my startup, Inexia, where I wear multiple hats as a Founder, Unreal Engine 5 Developer, 3D Modeler, and Web Developer.<br><br>
-    
-    🌟 I'm looking to collaborate on:<br>
-    💡 Open-source projects that push the boundaries of technology.<br>
-    🔗 Exciting web development ventures and interactive applications.<br><br>
-    
-    🆘 I'm looking for help with:<br>
-    🤝 Scaling my startup and reaching new heights.<br>
-    🚀 Optimizing VR and gaming experiences for a metaverse future.<br><br>
-    
-    📚 I'm currently learning:<br>
-    🌈 Exploring quantum computing and its potential applications.<br>
-    💻 Advancing my machine learning and AI skills.<br><br>
-    
-    ❓ Ask me about:<br>
-    🔮 The future of VR, gaming, and metaverse technology.<br>
-    🌐 Web development, 3D modeling, and building virtual worlds.<br>
-    🤖 Machine learning and its real-world impact.<br><br>
-    
-    ✨ Fun fact:<br>
-    🎮 When not coding, you'll find me mastering epic boss fights in video games or crafting intricate 3D models. The metaverse is my playground!<br><br>
-    
-    Let's connect and innovate together!
-    
-  </div>
-  
-  <div style="text-align: right; float: right; width: 30%;">
-    <img style="border-radius: 5px;" height="207" src="./Hodaka.gif" />
-    
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
-  </div>
-  
-  <div style="clear: both;"></div>
-  
+👋 About Me:<br>Passionate programmer and tech enthusiast on a journey to explore the endless possibilities of the digital world. My motto: "Code. Create. Innovate."<br><br>🚀 Currently working on:<br>🌐 Building an immersive metaverse platform with a focus on VR, gaming, and AI.<br>🌍 Developing cutting-edge solutions at my startup, Inexia, where I wear multiple hats as a Founder, Unreal Engine 5 Developer, 3D Modeler, and Web Developer.<br><br>🌟 I'm looking to collaborate on:<br>💡 Open-source projects that push the boundaries of technology.<br>🔗 Exciting web development ventures and interactive applications.<br><br>🆘 I'm looking for help with:<br>🤝 Scaling my startup and reaching new heights.<br>🚀 Optimizing VR and gaming experiences for a metaverse future.<br><br>📚 I'm currently learning:<br>🌈 Exploring quantum computing and its potential applications.<br>💻 Advancing my machine learning and AI skills.<br><br>❓ Ask me about:<br>🔮 The future of VR, gaming, and metaverse technology.<br>🌐 Web development, 3D modeling, and building virtual worlds.<br>🤖 Machine learning and its real-world impact.<br><br>✨ Fun fact:<br>🎮 When not coding, you'll find me mastering epic boss fights in video games or crafting intricate 3D models. The metaverse is my playground!<br><br>Let's connect and innovate together!<br>
+      
 </div>
 
-<style>
-  body {
-    color: white;
-  }
-</style>
 
-
+    
 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">
@@ -103,9 +58,7 @@
 
 </p>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <h3 align="center">Statistics</h3>
 <div align="center">
@@ -117,9 +70,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steeltroops-ai&theme=2077" height="176em" />
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <h3 align="Center">Stars</h3>
 <div align="center">
@@ -129,11 +80,9 @@
 
 </div>
 
-
 <h2 align="center">⚡Activity Graph </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=steeltroops-ai&theme=nightowl"/>
 <br clear="both">
-
 
 <h3 align="Center">connect with me</h3>
 <br clear="both">
@@ -153,8 +102,8 @@
   <a href="https://www.linkedin.com/in/steeltroops-ai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 
-
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
@@ -163,6 +112,7 @@
 </div>
 
 ### AniList:
+
 <p align="center">
   <a href="https://anilist.co/user/steeltroops/animelist"><img src="./eghha9ij72881.webp" alt="Banner"></a>
 </p>
