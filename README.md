@@ -3,10 +3,11 @@
   <a href="linktr.ee/steeltroops"><img src="./bannerc.jpg" alt="Banner"></a>
   
   <h2 align="center">  Fancy seeing you here...</h2>
+  
+  # <h1 align="center"><code>[<img src="https://64.media.tumblr.com/7d4cf400be9f42a39e3f9195bde8039c/e47bec4ac932def5-4e/s1280x1920/859f46c8c612e2d3d7e2a71f8d071fc343081f4d.jpg" height="110px" style="border-radius:2px;">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
 
 </p>
 
-# <h1 align="center"><code>[<img src="https://64.media.tumblr.com/7d4cf400be9f42a39e3f9195bde8039c/e47bec4ac932def5-4e/s1280x1920/859f46c8c612e2d3d7e2a71f8d071fc343081f4d.jpg" height="110px" style="border-radius:2px;">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
 
 
 
