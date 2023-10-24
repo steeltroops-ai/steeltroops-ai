@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif" alt="Banner"></a>
+  <a href="linktr.ee/steeltroops"><img src="./Hodaka.gif" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Mayank!</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Mayank</a>!</h1>
 
 <h5 align="left">👋 Hi there! I'm Mayank Pratap Singh, a passionate programmer and developer, always eager to transform innovative ideas into functional code. My journey through the world of technology has been an exciting one, marked by continuous learning, collaboration, and exploration.<br><br>🚀 What I Bring to the Table:<br>- 💻 Proficient in Python, C, Java, and C++, with hands-on experience in building diverse projects.<br>- 🌐 Web development enthusiast, having crafted over five websites for both consumers and my startup.<br>- 🛠️ System administration skills, including expertise in GNU/Linux and Microsoft Windows.<br>- 📈 Database wizard with MySQL, utilized for various web projects.<br>- 🌌 Tech explorer, passionate about working with different operating systems and virtualized infrastructures.<br>- 🧰 Familiar with software development tools like Git, Jira, and Trac for efficient project management.<br><br>🧮 Math Enthusiast:<br>- 📐 Proficient in mathematical concepts, including linear algebra, partial differential equations, complex analysis, numerical mathematics, and probability theory, all gained through rigorous coursework.<br><br>🎯 My goal is to continually evolve, tackle new challenges, and contribute to exciting open-source projects. Join me on this journey, and let's make technology work for us! 💡<br><br>📬 Feel free to reach out for collaboration, coding challenges, or discussions. Let's build something amazing together.</h5>
 
