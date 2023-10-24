@@ -4,6 +4,7 @@
 </p>
 
 <h2 align="center">  Fancy seeing you here...</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # <h1 align="center"><code>[<img style="border-radius: 5px;" height=125 src="./mayank.jpeg ">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
 
@@ -93,9 +94,12 @@
 
 </div>
 
+
 <h2 align="center">⚡Activity Graph </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=steeltroops-ai&theme=nightowl"/>
 <br clear="both">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
 <div align="center">
@@ -104,11 +108,17 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+
 
 <h3>Support my work:</h3>
 <p><a href="https://ko-fi.com/steeltroops"> <img  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="steeltroops" /></a></p><br><br>
-</div>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
+
+
+</div>
 
 <h3 align="center">AniList:</h3>
 <p align="center">
