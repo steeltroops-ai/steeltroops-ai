@@ -83,17 +83,19 @@
 <img src="https://raw.githubusercontent.com/steeltroops-ai/steeltroops-ai/output/snake.svg" alt="Snake animation" />
 
 ###
- 
-<br clear="both"> 
+
+## Songs Listening to right now
+
+<br clear="both">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=d44040&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
+
+###
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/steeltroops"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="steeltroops" /></a></p><br><br>
 
 
-<br clear="both"> 
-## Songs Listening to right now
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=d44040&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
-
-###
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/steeltroops_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="steeltroops_ai" height="30" width="40" /></a><a href="https://linkedin.com/in/steeltroops-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="steeltroops-ai" height="30" width="40" /></a><a href="https://www.youtube.com/c/steeltroops" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="steeltroops" height="30" width="40" /></a><a href="https://instagram.com/steeltroops_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="steeltroops_ai" height="30" width="40" /></a></p>
