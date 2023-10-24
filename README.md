@@ -7,18 +7,37 @@
 
 # <h1 align="center"><code>[<img style="border-radius: 5px;" height=125 src="./mayank.jpeg ">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
 
+
+
 <div align="left">
 
 <img  align="right" style="border-radius: 5px;" height="175" src="./Hodaka.gif" />
 
 👋 About Me:<br>Passionate programmer and tech enthusiast on a journey to explore the endless possibilities of the digital world. My motto: "Code. Create. Innovate."<br><br>🚀 Currently working on:<br>🌐 Building an immersive metaverse platform with a focus on VR, gaming, and AI.<br>🌍 Developing cutting-edge solutions at my startup, Inexia, where I wear multiple hats as a Founder, Unreal Engine 5 Developer, 3D Modeler, and Web Developer.<br><br>🌟 I'm looking to collaborate on:<br>💡 Open-source projects that push the boundaries of technology.<br>🔗 Exciting web development ventures and interactive applications.<br><br>🆘 I'm looking for help with:<br>🤝 Scaling my startup and reaching new heights.<br>🚀 Optimizing VR and gaming experiences for a metaverse future.<br><br>📚 I'm currently learning:<br>🌈 Exploring quantum computing and its potential applications.<br>💻 Advancing my machine learning and AI skills.<br><br>❓ Ask me about:<br>🔮 The future of VR, gaming, and metaverse technology.<br>🌐 Web development, 3D modeling, and building virtual worlds.<br>🤖 Machine learning and its real-world impact.<br><br>✨ Fun fact:<br>🎮 When not coding, you'll find me mastering epic boss fights in video games or crafting intricate 3D models. The metaverse is my playground!<br><br>Let's connect and innovate together!<br>
 
+<div align="center">
+
+<h4>Connect with me:<h4>
+  <a href="https://www.linkedin.com/in/steeltroops-ai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+
+  <a href="https://linktr.ee/steeltroops" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <a href="https://www.instagram.com/steeltroops_ai/https://www.instagram.com/steeltroops_ai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/steeltroops-ai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -66,7 +85,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="Center">Stats</h3>
+<h3 align="Center">Streaks</h3>
 <div align="center">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeltroops-ai&layout=compact&theme=nightowl" alt=steeltroops-ai />
 
@@ -78,35 +97,20 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=steeltroops-ai&theme=nightowl"/>
 <br clear="both">
 
-<h3 align="Center">connect with me</h3>
-<br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/steeltroops-ai/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 
-  <a href="https://linktr.ee/steeltroops" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-  <a href="https://www.instagram.com/steeltroops_ai/https://www.instagram.com/steeltroops_ai/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.linkedin.com/in/steeltroops-ai/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-
-### ✍️ Random Dev Quote
+<h3 align="center">✍️ Random Dev Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
+
 <h3>Support my work:</h3>
 <p><a href="https://ko-fi.com/steeltroops"> <img  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="steeltroops" /></a></p><br><br>
 </div>
 
-### AniList:
 
+<h3 align="center">AniList:</h3>
 <p align="center">
   <a href="https://anilist.co/user/steeltroops/animelist"><img src="./eghha9ij72881.webp" alt="Banner"></a>
 </p>
