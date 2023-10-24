@@ -6,27 +6,24 @@
 
 </p>
 
-
-
 # <h1 align="center">[<img src="https://64.media.tumblr.com/7d4cf400be9f42a39e3f9195bde8039c/e47bec4ac932def5-4e/s1280x1920/859f46c8c612e2d3d7e2a71f8d071fc343081f4d.jpg" height="110px">](linktr.ee/steeltroops) Hi there!👋⠀| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=d44040&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
-</h1>
 
+</h1>
 
 <h1 align="center"> <code>I'm <a href="https://www.edisonlee55.com">Mayank Pratap Singh</a>!</code> </h1>
 
 <h5 align="left">👋 Hi there! I'm Mayank Pratap Singh, a passionate programmer and developer, always eager to transform innovative ideas into functional code. My journey through the world of technology has been an exciting one, marked by continuous learning, collaboration, and exploration.<br><br>🚀 What I Bring to the Table:<br>- 💻 Proficient in Python, C, Java, and C++, with hands-on experience in building diverse projects.<br>- 🌐 Web development enthusiast, having crafted over five websites for both consumers and my startup.<br>- 🛠️ System administration skills, including expertise in GNU/Linux and Microsoft Windows.<br>- 📈 Database wizard with MySQL, utilized for various web projects.<br>- 🌌 Tech explorer, passionate about working with different operating systems and virtualized infrastructures.<br>- 🧰 Familiar with software development tools like Git, Jira, and Trac for efficient project management.<br><br>🧮 Math Enthusiast:<br>- 📐 Proficient in mathematical concepts, including linear algebra, partial differential equations, complex analysis, numerical mathematics, and probability theory, all gained through rigorous coursework.<br><br>🎯 My goal is to continually evolve, tackle new challenges, and contribute to exciting open-source projects. Join me on this journey, and let's make technology work for us! 💡<br><br>📬 Feel free to reach out for collaboration, coding challenges, or discussions. Let's build something amazing together.</h5>
 
-
 ###
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeltroops-ai&layout=compact&theme=nightowl" alt=steeltroops-ai />
+## <h3 align="Center">Stars</h3>
+
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeltroops-ai&layout=compact&theme=nightowl" alt=steeltroops-ai />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=steeltroops-ai&theme=nightowl" alt="steeltroops-ai" /> 
 </h2></p>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Statistics</h3>
 <div align="center">
@@ -118,9 +115,6 @@
 <br clear="both">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=d44040&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
-
-
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/steeltroops"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="steeltroops" /></a></p><br><br>
