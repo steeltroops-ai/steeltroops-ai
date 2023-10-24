@@ -12,7 +12,7 @@
 
 <div align="center" >
 
-<img align="right" style="border-radius:5px;"  height="152" src="./Hodaka.gif" />
+<img align="right" style="border-radius:5px;"  height="700"  src="./ayano.jpg" />
 
 
 <div align="left">
