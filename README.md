@@ -1,7 +1,6 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 <p align="center">
   <a href="linktr.ee/steeltroops"><img src="./bannerc.jpg" alt="Banner"></a>
-  <br>
   <h2>  Fancy seeing you here...</h2>
 </p>
 
