@@ -1,8 +1,8 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 <p align="center">
   <a href="linktr.ee/steeltroops"><img src="./bannerc.jpg" alt="Banner"></a>
-
-  <h2>  Fancy seeing you here...</h2>
+  
+  <h2 align="center">  Fancy seeing you here...</h2>
 
 </p>
 
@@ -12,7 +12,7 @@
 
 <div align="center" >
 
-<img align="right" height="152" src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif" />
+<img align="right" height="152" src="./Hodaka.gif" />
 
 <h5 align="left">👋 Hi there! I'm Mayank Pratap Singh, a passionate programmer and developer, always eager to transform innovative ideas into functional code. My journey through the world of technology has been an exciting one, marked by continuous learning, collaboration, and exploration.<br><br>🚀 What I Bring to the Table:<br>- 💻 Proficient in Python, C, Java, and C++, with hands-on experience in building diverse projects.<br>- 🌐 Web development enthusiast, having crafted over five websites for both consumers and my startup.<br>- 🛠️ System administration skills, including expertise in GNU/Linux and Microsoft Windows.<br>- 📈 Database wizard with MySQL, utilized for various web projects.<br>- 🌌 Tech explorer, passionate about working with different operating systems and virtualized infrastructures.<br>- 🧰 Familiar with software development tools like Git, Jira, and Trac for efficient project management.<br><br>🧮 Math Enthusiast:<br>- 📐 Proficient in mathematical concepts, including linear algebra, partial differential equations, complex analysis, numerical mathematics, and probability theory, all gained through rigorous coursework.<br><br>🎯 My goal is to continually evolve, tackle new challenges, and contribute to exciting open-source projects. Join me on this journey, and let's make technology work for us! 💡<br><br>📬 Feel free to reach out for collaboration, coding challenges, or discussions. Let's build something amazing together.</h5>
 
@@ -94,9 +94,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/steeltroops-ai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-</div>
 
 ![Snake animation](https://github.com/steeltroops-ai/steeltroops-ai/blob/output/github-contribution-grid-snake.svg)
 
