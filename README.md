@@ -2,11 +2,9 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif"  />
+<br clear="both">
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=steeltroops-ai&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steeltroops-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -49,7 +47,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="152" src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif"  />
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/steeltroops-ai/" target="_blank">
@@ -75,6 +75,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/steeltroops-ai/steeltroops-ai/output/snake.svg" alt="Snake animation" />
 
