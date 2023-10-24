@@ -1,8 +1,9 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 <p align="center">
   <a href="linktr.ee/steeltroops"><img src="./bannerc.jpg" alt="Banner"></a> 
-  <h2 align="center">  Fancy seeing you here...</h2>
 </p>
+
+<h2 align="center">  Fancy seeing you here...</h2>
 
 # <h1 align="center"><code>[<img style="border-radius: 5px;" height=125 src="./mayank.jpeg ">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
 
