@@ -9,25 +9,23 @@
 
 
 
-<section>
-        <div style="width: 70%; float: left;">
-            👋 About Me:<br>Passionate programmer and tech enthusiast on a journey to explore the endless possibilities of the digital world. My motto: "Code. Create. Innovate."<br><br>🚀 Currently working on:<br>🌐 Building an immersive metaverse platform with a focus on VR, gaming, and AI.<br>🌍 Developing cutting-edge solutions at my startup, Inexia, where I wear multiple hats as a Founder, Unreal Engine 5 Developer, 3D Modeler, and Web Developer.<br><br>🌟 I'm looking to collaborate on:<br>💡 Open-source projects that push the boundaries of technology.<br>🔗 Exciting web development ventures and interactive applications.<br><br>🆘 I'm looking for help with:<br>🤝 Scaling my startup and reaching new heights.<br>🚀 Optimizing VR and gaming experiences for a metaverse future.<br><br>📚 I'm currently learning:<br>🌈 Exploring quantum computing and its potential applications.<br>💻 Advancing my machine learning and AI skills.<br><br>❓ Ask me about:<br>🔮 The future of VR, gaming, and metaverse technology.<br>🌐 Web development, 3D modeling, and building virtual worlds.<br>🤖 Machine learning and its real-world impact.<br><br>✨ Fun fact:<br>🎮 When not coding, you'll find me mastering epic boss fights in video games or crafting intricate 3D models. The metaverse is my playground!<br><br>Let's connect and innovate together!<br>
-        </div>
-        <div style="width: 30%; float: left;">
-           <div align = "right">
-<img style="border-radius:5px;"  height="207"  src="./Hodaka.gif" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
-
-
+<div align="center">
+    <div style="float: left; width: 70%; text-align: left;">
+        👋 About Me:<br>Passionate programmer and tech enthusiast on a journey to explore the endless possibilities of the digital world. My motto: "Code. Create. Innovate."<br><br>🚀 Currently working on:<br>🌐 Building an immersive metaverse platform with a focus on VR, gaming, and AI.<br>🌍 Developing cutting-edge solutions at my startup, Inexia, where I wear multiple hats as a Founder, Unreal Engine 5 Developer, 3D Modeler, and Web Developer.<br><br>🌟 I'm looking to collaborate on:<br>💡 Open-source projects that push the boundaries of technology.<br>🔗 Exciting web development ventures and interactive applications.<br><br>🆘 I'm looking for help with:<br>🤝 Scaling my startup and reaching new heights.<br>🚀 Optimizing VR and gaming experiences for a metaverse future.<br><br>📚 I'm currently learning:<br>🌈 Exploring quantum computing and its potential applications.<br>💻 Advancing my machine learning and AI skills.<br><br>❓ Ask me about:<br>🔮 The future of VR, gaming, and metaverse technology.<br>🌐 Web development, 3D modeling, and building virtual worlds.<br>🤖 Machine learning and its real-world impact.<br><br>✨ Fun fact:<br>🎮 When not coding, you'll find me mastering epic boss fights in video games or crafting intricate 3D models. The metaverse is my playground!<br><br>Let's connect and innovate together!<br>
+    </div>
+    <div style="float: right; width: 30%; text-align: center;">
+        <img style="border-radius: 5px;" height="207" src="./Hodaka.gif" />
+        <br>
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true">
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+        </a>
+    </div>
+    <div style="clear: both;"></div>
 </div>
-        </div>
-        <div style="clear: both;"></div>
-    </section>
 
 
-<div width=100%>
-<section align="left">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
