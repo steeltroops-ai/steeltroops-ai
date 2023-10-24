@@ -86,4 +86,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kcq3r4acb4sr4xghbkh2p5bjru&redirect=true)
 
 
+![](https://now-playing-cards.vercel.app/now-playing/q?uid=bom1::rl4sr-1698142249591-1b5948eabb65)
+
 ###
