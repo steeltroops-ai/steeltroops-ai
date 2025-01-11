@@ -117,7 +117,7 @@ br>✨ Fun fact:<br>🎮 When not coding, you'll find me mastering epic boss fig
 
 <h3 align="center">Listen with me:</h3>
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31kcq3r4acb4sr4xghbkh2p5bjru)](https://open.spotify.com/user/31kcq3r4acb4sr4xghbkh2p5bjru)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31kcq3r4acb4sr4xghbkh2p5bjru)](https://spotify-recently-played-readme.vercel.app/api?user=31kcq3r4acb4sr4xghbkh2p5bjru&unique={true|1|on|yes})
 
 
 
