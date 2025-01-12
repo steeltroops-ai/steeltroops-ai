@@ -1,11 +1,11 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 <p align="center">
-  <a href="linktr.ee/steeltroops"><img src="./bannerc.jpg" alt="Banner"></a> 
+  <a href="linktr.ee/steeltroops"><img src="./banner.png" alt="Banner"></a> 
 </p>
 
 <h2 align="center">  Fancy seeing you here...</h2>
 
-#<h1 align="center"><code>[<img style="border-radius: 7px;" height=125 src="./mayank123.jpg ">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
+#<h1 align="center"><code>[<img style="border-radius: 7px;" height=125 src="./mayank123.png ">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
 
 <div align="left">
 
