@@ -9,7 +9,7 @@
 
 <div align="left">
 
-<img  align="right" style="border-radius: 10px;" height="175" src="./Hodaka.gif" />
+<img  align="right" alt="GIF" height="175" src="./Hodaka.gif" />
 
 👋 About Me:<br>Passionate programmer and tech enthusiast on a journey to explore the endless possibilities of the digital world. My motto: "Code. Create. Innovate."<br>
 
