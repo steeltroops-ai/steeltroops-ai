@@ -5,29 +5,57 @@
 
 <h2 align="center">  Fancy seeing you here...</h2>
 
-#<h1 align="center"><code>[<img style="border-radius: 7px;" height=125 src="./mayank123.png ">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
+<h1 align="center"><code>[<img style="border-radius: 7px;" height=125 src="./mayank123.png ">](linktr.ee/steeltroops) Hi there!👋I'm <a href="https://www.linktr.ee/steeltroops">Mayank Pratap Singh</a>!</code></h1>
 
 <div align="left">
 
 <img  align="right" alt="GIF" height="175" src="./Hodaka.gif" />
 
-👋 About Me:<br>Passionate programmer and tech enthusiast on a journey to explore the endless possibilities of the digital world. My motto: "Code. Create. Innovate."<br>
+### About Me:
+Passionate tech explorer and AI enthusiast, currently navigating the exciting realms of robotics, machine learning, and web technologies. My mantra: **"Code smart. Build bold."**
 
-<br>🚀 Currently working on:<br>🌐 Building an immersive metaverse platform with a focus on VR, gaming, and AI.<br>🌍 Developing cutting-edge solutions at my startup, Inexia, where I wear multiple hats as a Founder, Unreal Engine 5 Developer, 3D Modeler, and Web Developer.<br>
+---
 
+### 🚀 Currently Working On:
+- 🤖 Developing advanced robotics systems leveraging ROS2 for autonomous solutions.
+- 🌌 Exploring full-stack web development with React and backend technologies to bridge innovation in AI and interactive web applications.
+- 🛠️ Enhancing systems and frameworks for real-world applications through hands-on engineering.
 
-<br>🌟 I'm looking to collaborate on:<br>💡 Open-source projects that push the boundaries of technology.<br>🔗 Exciting web development ventures and interactive applications.<br>
+---
 
+### 🌟 Open to Collaborate On:
+- 🔗 Projects combining robotics, AI, and web technologies.
+- 📚 Research and experimentation in large-scale distributed systems.
+- 🤝 Engaging in open-source projects that make an impact.
 
-<br>🆘 I'm looking for help with:<br>🤝 Scaling my startup and reaching new heights.<br>🚀 Optimizing VR and gaming experiences for a metaverse future.<br>
+---
 
-<br>📚 I'm currently learning:<br>🌈 Exploring quantum computing and its potential applications.<br>💻 Advancing my machine learning and AI skills.<br>
+### 🆘 Seeking Guidance In:
+- 🌐 Building robust, scalable solutions for autonomous systems.
+- 🚀 Fine-tuning integration processes for multi-sensor environments.
+- 📈 Enhancing and maintaining project scalability across platforms.
 
+---
 
-<br>❓ Ask me about:<br>🔮 The future of VR, gaming, and metaverse technology.<br>🌐 Web development, 3D modeling, and building virtual worlds.<br>🤖 Machine learning and its real-world impact.<br
+### 📚 Currently Learning:
+- 🌌 Advanced motion planning and control systems for robotics.
+- 📦 Professional Docker practices for deployment.
+- 🔍 Experimenting with machine learning architectures for AI.
 
+---
 
-br>✨ Fun fact:<br>🎮 When not coding, you'll find me mastering epic boss fights in video games or crafting intricate 3D models. The metaverse is my playground!<br><br>Let's connect and innovate together!<br>
+### ❓ Ask Me About:
+- ⚙️ Hands-on experiences with robotics and automation.
+- 🖥️ Real-world challenges in integrating ROS2 with hardware and software.
+- 🌟 The intersection of AI and web technologies in solving today’s challenges.
+
+---
+
+### ✨ Fun Fact:
+🎯 When I’m not coding, I’m often analyzing video games, exploring futuristic tech concepts, or sharing knowledge on Twitter with my 5K+ followers.
+
+---
+
 
 <div align="center">
 
