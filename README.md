@@ -99,6 +99,80 @@
 }
 </style>
 
+<!-- Profile Section -->
+<table>
+  <tr>
+    <td width="150" align="center">
+      <img src="./mayank123.png" alt="Steel Troops Avatar" width="150" height="150" style="border-radius: 50%">
+    </td>
+    <td align="left">
+      <h2>零 Mayank Pratap Singh</h2>
+      
+> AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=false&vCenter=false&random=false&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
+    </td>
+  </tr>
+</table>
+
+<!-- Neural Interface Section -->
+<table>
+  <tr>
+    <td>
+
+### 🌐 Neural Interface Loading...
+
+```css
+      STATUS: OPERATIONAL
+      ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
+      MISSION: PUSHING TECH BOUNDARIES
+      FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
+      LANGUAGES: ["English", "Hindi", "中文", "日本語"]
+```
+
+</td>
+    <td width="200" align="center"   > 
+      <img src="./Hodaka.gif"  alt="Cyberpunk Vibes" width="200">
+</td>
+
+  </tr>
+</table>
+
+
+<!-- Profile Section -->
+<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; justify-content: center;">
+  <img src="./mayank123.png" alt="Steel Troops Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
+  <div style="flex: 1 1 300px; min-width: 250px; text-align: left;">
+    
+##  零 Mayank Pratap Singh
+
+> AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter 
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=true&vCenter=true&random=false&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
+</div>
+
+  </div>
+</div>
+
+<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap-reverse; justify-content: center; margin-top: 20px;">
+  <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
+  
+### 🌐 Neural Interface Loading...
+
+<div align="center">
+
+```css
+STATUS: OPERATIONAL
+ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
+MISSION: PUSHING TECH BOUNDARIES
+FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
+LANGUAGES: ["English", "Hindi", "中文", "日本語"]
+```
+
+</div> </div> <img alt="Cyberpunk Vibes" src="./Hodaka.gif" style="max-height: 170px; max-width: 70%; height: auto; margin: 5px; margin-top:25px;"> </div> `
+
 
 ### 🎯 Current Missions
 - 🤖 Developing cutting-edge robotics systems with advanced autonomous capabilities
