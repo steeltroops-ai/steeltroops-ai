@@ -1,18 +1,101 @@
-<svg width="100%" height="10" viewBox="0 0 1000 10" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF3399" stop-opacity="0.8"/> 
-      <stop offset="50%" stop-color="#00FFFF" stop-opacity="1"/> 
-      <stop offset="100%" stop-color="#FF3399" stop-opacity="0.8"/>
-    </linearGradient>
-    <filter id="neonGlow">
-        <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
-        <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 20 -5" result="glow"/>
-        <feMerge>
-            <feMergeNode in="glow"/>
-            <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-    </filter>
-  </defs>
-  <line x1="0" y1="5" x2="1000" y2="5" stroke="url(#neonGradient)" stroke-width="2" filter="url(#neonGlow)" />
+<svg width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    <![CDATA[
+    .cyber-profile {
+      display: flex;
+      gap: 2rem;
+      align-items: center;
+      font-family: monospace;
+      color: #00FF41;
+      padding: 10px;
+      
+    }
+
+    .cyber-content {
+      flex: 1;
+      
+    }
+
+    .cyber-content h2 {
+      color: #FF41B4; /* Bright pink for the name */
+      font-size: 24px;
+      margin-bottom: 5px;
+    }
+
+    .cyber-content p {
+      color: #00F6FF; /* Cyan for description */
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    .cyber-content pre {
+        white-space: pre-wrap;
+    }
+
+    .hologram {
+      height: 100%;
+      width: auto;
+      object-fit: contain;
+      max-height: 170px;
+      margin-top: 18px;
+    }
+
+    @media (max-width: 700px) {
+      .cyber-profile {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+        text-align: center;
+      }
+
+      .hologram {
+        height: auto;
+        width: 65%;
+        max-height: none;
+        max-width: 100%;
+        margin: 5px;
+      }
+    }
+
+    /* Styling for the typing animation container */
+    .typing-container {
+      width: 435px; /* Adjust width as needed */
+      
+      
+    }
+
+    /* Additional styles for better text visibility */
+    .cyber-profile, .cyber-content {
+      background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+      border-radius: 5px;
+    }
+    ]]>
+  </style>
+  <foreignObject width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <div class="cyber-profile">
+        <img src="https://raw.githubusercontent.com/mayank1513/mayank1513/main/mayank123.png" alt="Steel Troops Avatar" width="150" height="150" style="border-radius: 50%;" />
+        <div class="cyber-content">
+          <h2>零 Mayank Pratap Singh</h2>
+          <p>AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter</p>
+          <div class="typing-container">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=00F6FF&amp;center=false&amp;vCenter=false&amp;random=false&amp;width=435&amp;lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead" alt="Typing SVG" />
+          </div>
+        </div>
+      </div>
+
+      <div class="cyber-profile">
+        <div class="cyber-content">
+          <h3>🌐 Neural Interface Loading...</h3>
+          <pre>STATUS: OPERATIONAL
+ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
+MISSION: PUSHING TECH BOUNDARIES
+FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
+LANGUAGES: ["English", "Hindi", "中文", "日本語"]</pre>
+        </div>
+        <img class="hologram" alt="Cyberpunk Vibes" src="https://raw.githubusercontent.com/mayank1513/mayank1513/main/Hodaka.gif" style="height: 100%; width: auto; object-fit: contain; max-height: 170px; margin-top: 18px;" />
+      </div>
+    </body>
+  </foreignObject>
 </svg>
