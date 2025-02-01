@@ -5,7 +5,41 @@
 </p>
 
 
+<!-- Profile Section -->
+<table width="auto">
+  <tr width="auto">
+    <td width="170"  align-items: center>
+      <img src="./mayank123.png" alt="Steel Troops Avatar" width="150" height="150" style="border-radius: 50%">
+    </td>
+    <td valign="top">
+      <h2>零 Mayank Pratap Singh</h2>
+      <blockquote>
+        AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter
+      </blockquote>
+      <p align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead" alt="Typing SVG">
+      </p>
+    </td>
+  </tr>
+</table>
 
+<!-- Neural Interface Section -->
+### 🌐 Neural Interface Loading...
+<table  width="auto">
+  <tr width="auto">
+    <td valign="top">
+      <pre>
+STATUS: OPERATIONAL
+ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
+MISSION: PUSHING TECH BOUNDARIES
+FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
+LANGUAGES: ["English", "Hindi", "中文", "日本語"]</pre>
+    </td>
+    <td width="150" valign="top">
+      <img src="./Hodaka.gif" alt="Cyberpunk Vibes" width="190">
+    </td>
+  </tr>
+</table>
 
 <!-- Profile Section -->
 <div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap;">
