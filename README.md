@@ -260,6 +260,46 @@ LANGUAGES: ["English", "Hindi", "中文", "日本語"]
 </div>
 
 
+
+
+<!-- Profile Section -->
+<div align="center" style="max-width: 1200px; margin: 0 auto; padding: 20px;">
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; align-items: center; margin-bottom: 2rem;">
+  <img src="./mayank123.png" alt="Steel Troops Avatar" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+  
+  <div style="flex: 1; min-width: 300px;">
+    <h2>零 Mayank Pratap Singh</h2>
+    <blockquote style="margin: 1em 0; color: #00F6FF;">
+      AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter 
+    </blockquote>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=false&vCenter=false&random=false&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap-reverse; gap: 2rem; justify-content: center; align-items: center; margin-top: 2rem;">
+  <div style="flex: 1; min-width: 300px;">
+    <h3>🌐 Neural Interface Loading...</h3>
+    <pre style="background-color: #161B22; padding: 1em; border-radius: 8px; color: #00F6FF;">
+
+```css
+STATUS: OPERATIONAL
+ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
+MISSION: PUSHING TECH BOUNDARIES
+FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
+LANGUAGES: ["English", "Hindi", "中文", "日本語"]
+```
+
+  </pre>
+  </div>
+  
+  <img src="./Hodaka.gif" alt="Cyberpunk Vibes" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px; margin-top: 50px;">
+</div>
+
+</div>
+
+
 ### 🎯 Current Missions
 - 🤖 Developing cutting-edge robotics systems with advanced autonomous capabilities
 - 🌌 Building bridges between AI and interactive web platforms
