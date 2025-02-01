@@ -161,7 +161,7 @@
   
 ### 🌐 Neural Interface Loading...
 
-<div align="center">
+<div align="">
 
 ```css
 STATUS: OPERATIONAL
@@ -171,7 +171,93 @@ FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
 LANGUAGES: ["English", "Hindi", "中文", "日本語"]
 ```
 
-</div> </div> <img alt="Cyberpunk Vibes" src="./Hodaka.gif" style="max-height: 170px; max-width: 70%; height: auto; margin: 5px; margin-top:25px;"> </div> `
+</div> </div> <img alt="Cyberpunk Vibes" src="./Hodaka.gif" style="max-height: 170px; max-width: 70%; height: auto; margin: 5px; margin-top:25px;"> </div> 
+
+
+
+
+
+
+
+<!-- Profile Section -->
+<div align="center" style="max-width: 900px; margin: 0 auto;">
+  <table><tr>
+    <td style="padding: 10px; vertical-align: middle;">
+      <img src="./mayank123.png" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
+    </td>
+    <td style="padding: 10px; vertical-align: middle;">
+      
+## 零 Mayank Pratap Singh
+
+> AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=false&vCenter=false&random=false&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
+
+  
+  
+  </td>
+  </tr></table>
+
+  <table><tr>
+    <td style="padding: 10px; vertical-align: middle; min-width: 300px;">
+      
+### 🌐 Neural Interface Loading...
+
+```css
+STATUS: OPERATIONAL
+ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
+MISSION: PUSHING TECH BOUNDARIES
+FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
+LANGUAGES: ["English", "Hindi", "中文", "日本語"]
+```
+</td>
+<td style="padding: 10px; vertical-align: middle;">
+  <img src="./Hodaka.gif" alt="Hologram" style="max-height: 170px; width: auto;">
+</td>
+</tr></table> </div>
+
+
+
+
+
+
+
+
+<!-- Profile Section -->
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; margin: 1rem 0;">
+    <img src="./mayank123.png" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
+    
+  <div style="max-width: 600px;">
+
+## 零 Mayank Pratap Singh
+
+> **AI x Fullstack x Robotics Dev** | 未来を作る | 10k+ Tech Twitter
+      
+  <div style="margin: 1rem 0;">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=true&vCenter=true&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
+  </div>
+  </div>
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap-reverse; justify-content: center; align-items: center; gap: 2rem; margin: 2rem 0;">
+    <div style="max-width: 600px; text-align: left;">
+
+### 🌐 Neural Interface Loading...
+      
+<pre style="background-color: #0d1117; padding: 1rem; border-radius: 8px; color: #00F6FF; margin: 1rem 0;">
+
+STATUS: OPERATIONAL
+ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
+MISSION: PUSHING TECH BOUNDARIES
+FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
+LANGUAGES: ["English", "Hindi", "中文", "日本語"]
+</pre>
+</div>
+<img src="./Hodaka.gif" alt="Hologram" style="max-width: 65%; height: auto; border-radius: 8px; margin: 1rem;">
+</div>
+</div>
 
 
 ### 🎯 Current Missions
