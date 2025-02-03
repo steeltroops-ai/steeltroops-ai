@@ -93,78 +93,6 @@
 
 
 <!-- Profile Section -->
-<table width="auto">
-  <tr width="auto">
-    <td width="170"  align-items: center>
-      <img src="./mayank123.png" alt="Steel Troops Avatar" width="150" height="150" style="border-radius: 50%">
-    </td>
-    <td valign="top">
-      <h2>零 Mayank Pratap Singh</h2>
-      <blockquote>
-        AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter
-      </blockquote>
-      <p align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead" alt="Typing SVG">
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- Neural Interface Section -->
-### 🌐 Neural Interface Loading...
-<table  width="auto">
-  <tr width="auto">
-    <td valign="top">
-      <pre>
-STATUS: OPERATIONAL
-ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
-MISSION: PUSHING TECH BOUNDARIES
-FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
-LANGUAGES: ["English", "Hindi", "中文", "日本語"]</pre>
-    </td>
-    <td width="150" valign="top">
-      <img src="./Hodaka.gif" alt="Cyberpunk Vibes" width="190">
-    </td>
-  </tr>
-</table>
-
-
-<!-- Profile Section -->
-<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap;">
-  <img src="./mayank123.png" alt="Steel Troops Avatar" width="150" height="150" style="border-radius: 50%">
-  <div style="flex: 1; min-width: 300px;">
-
-##  零 Mayank Pratap Singh
-
-> AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=false&vCenter=false&random=false&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
-  </div>
-</div>
-
-<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; margin-top: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-
-### 🌐 Neural Interface Loading...
-
-  <div style="background: #0f0f0f; border: 1px solid #00F6FF; padding: 1em; border-radius: 5px; margin: 10px 0;">
-      
-```css
-      STATUS: OPERATIONAL
-      ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
-      MISSION: PUSHING TECH BOUNDARIES
-      FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
-      LANGUAGES: ["English", "Hindi", "中文", "日本語"]
-```
-  </div>
-  </div>
-  <img src="./Hodaka.gif" alt="Cyberpunk Vibes" 
-       style="max-height: 170px; margin-top: 18px; object-fit: contain; width: auto; max-width: 100%;">
-</div>
-
-
-
-<!-- Profile Section -->
 <table>
   <tr>
     <td width="150" align="center">
@@ -180,12 +108,12 @@ LANGUAGES: ["English", "Hindi", "中文", "日本語"]</pre>
   </tr>
 </table>
 
+### 🌐 Neural Interface Loading...
+
 <!-- Neural Interface Section -->
 <table>
   <tr>
     <td>
-
-### 🌐 Neural Interface Loading...
 
 ```css
       STATUS: OPERATIONAL
@@ -203,94 +131,11 @@ LANGUAGES: ["English", "Hindi", "中文", "日本語"]</pre>
   </tr>
 </table>
 
-
 <!-- Profile Section -->
-<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; justify-content: center;">
-  <img src="./mayank123.png" alt="Steel Troops Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
-  <div style="flex: 1 1 300px; min-width: 250px; text-align: left;">
-    
-##  零 Mayank Pratap Singh
+<!---
+<div align="center" style="max-width: 1200px; margin: 0 auto; padding: 20px;">
 
-> AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter 
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=true&vCenter=true&random=false&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
-</div>
-
-  </div>
-</div>
-
-<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap-reverse; justify-content: center; margin-top: 20px;">
-  <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
-  
-### 🌐 Neural Interface Loading...
-
-<div align="">
-
-```css
-STATUS: OPERATIONAL
-ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
-MISSION: PUSHING TECH BOUNDARIES
-FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
-LANGUAGES: ["English", "Hindi", "中文", "日本語"]
-```
-
-</div> </div> <img alt="Cyberpunk Vibes" src="./Hodaka.gif" style="max-height: 170px; max-width: 70%; height: auto; margin: 5px; margin-top:25px;"> </div> 
-
-
-
-
-
-
-
-<!-- Profile Section -->
-<div align="center" style="max-width: 900px; margin: 0 auto;">
-  <table><tr>
-    <td style="padding: 10px; vertical-align: middle;">
-      <img src="./mayank123.png" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
-    </td>
-    <td style="padding: 10px; vertical-align: middle;">
-      
-## 零 Mayank Pratap Singh
-
-> AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=false&vCenter=false&random=false&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
-
-  
-  
-  </td>
-  </tr></table>
-
-  <table><tr>
-    <td style="padding: 10px; vertical-align: middle; min-width: 300px;">
-      
-### 🌐 Neural Interface Loading...
-
-```css
-STATUS: OPERATIONAL
-ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
-MISSION: PUSHING TECH BOUNDARIES
-FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
-LANGUAGES: ["English", "Hindi", "中文", "日本語"]
-```
-</td>
-<td style="padding: 10px; vertical-align: middle;">
-  <img src="./Hodaka.gif" alt="Hologram" style="max-height: 170px; width: auto;">
-</td>
-</tr></table> </div>
-
-
-
-
-
-
-
-
-<!-- Profile Section -->
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; margin: 1rem 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; margin: 1rem 0;">
     <img src="./mayank123.png" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
     
   <div style="max-width: 600px;">
@@ -305,43 +150,6 @@ LANGUAGES: ["English", "Hindi", "中文", "日本語"]
   </div>
   </div>
   </div>
-
-  <div style="display: flex; flex-wrap: wrap-reverse; justify-content: center; align-items: center; gap: 2rem; margin: 2rem 0;">
-    <div style="max-width: 600px; text-align: left;">
-
-### 🌐 Neural Interface Loading...
-      
-<pre style="background-color: #0d1117; padding: 1rem; border-radius: 8px; color: #00F6FF; margin: 1rem 0;">
-
-STATUS: OPERATIONAL
-ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
-MISSION: PUSHING TECH BOUNDARIES
-FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
-LANGUAGES: ["English", "Hindi", "中文", "日本語"]
-</pre>
-</div>
-<img src="./Hodaka.gif" alt="Hologram" style="max-width: 65%; height: auto; border-radius: 8px; margin: 1rem;">
-</div>
-</div>
-
-
-
-
-<!-- Profile Section -->
-<div align="center" style="max-width: 1200px; margin: 0 auto; padding: 20px;">
-
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; align-items: center; margin-bottom: 2rem;">
-  <img src="./mayank123.png" alt="Steel Troops Avatar" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-  
-  <div style="flex: 1; min-width: 300px;">
-    <h2>零 Mayank Pratap Singh</h2>
-    <blockquote style="margin: 1em 0; color: #00F6FF;">
-      AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter 
-    </blockquote>
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=false&vCenter=false&random=false&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
-  </div>
-</div>
 
 <div style="display: flex; flex-wrap: wrap-reverse; gap: 2rem; justify-content: center; align-items: center; margin-top: 2rem;">
   <div style="flex: 1; min-width: 300px;">
@@ -361,9 +169,8 @@ LANGUAGES: ["English", "Hindi", "中文", "日本語"]
   
   <img src="./Hodaka.gif" alt="Cyberpunk Vibes" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px; margin-top: 50px;">
 </div>
-
 </div>
-
+--->
 
 ### 🎯 Current Missions
 - 🤖 Developing cutting-edge robotics systems with advanced autonomous capabilities
