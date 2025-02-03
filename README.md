@@ -95,8 +95,8 @@
 <!-- Profile Section -->
 <table>
   <tr>
-    <td width="150" align="center">
-      <img src="./mayank123.png" alt="Steel Troops Avatar" width="150" height="150" style="border-radius: 50%">
+    <td width="170" align="center">
+      <img src="./mayank123.png" alt="profile" width="160" height="150" style="border-radius: 50%">
     </td>
     <td align="left">
       <h2>零 Mayank Pratap Singh</h2>
@@ -113,7 +113,7 @@
 <!-- Neural Interface Section -->
 <table>
   <tr>
-    <td>
+    <td width="400" align="left">
 
 ```css
       STATUS: OPERATIONAL
