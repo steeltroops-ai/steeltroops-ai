@@ -1,269 +1,236 @@
 <!-- Header Banner Area -->
-<p align="center">
-
-  <a href="linktr.ee/steeltroops"><img src="./banner.png" alt="サイバーパンク デベロッパー"></a>
-</p>
-
-
-
-
-<!-- Profile Section -->
-
-<!---
-<div class="cyber-profile">
- <img src="./mayank123.png" alt="Steel Troops Avatar" width="150" height="150" style="border-radius: 50%">
-  <div class="cyber-content">
-  
-##  零 Mayank Pratap Singh
-
-> AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=false&vCenter=false&random=false&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
-
-  </div>
-</div>
 <div align="center">
+  <a href="https://bento.me/steeltroops">
+    <img src="./banner.png" alt="Developer Portfolio" width="100%" style="border-radius: 12px; opacity: 0.95;">
+  </a>
 </div>
-<div class="cyber-profile">
-  <div class="cyber-content">
-
-
-### 🌐 Neural Interface Loading...
-
- ```css
-    STATUS: OPERATIONAL
-    ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
-    MISSION: PUSHING TECH BOUNDARIES
-    FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
-    LANGUAGES: ["English", "Hindi", "中文", "日本語"]
-```
-  </div>
-  <img class="hologram" alt="Cyberpunk Vibes" src="./Hodaka.gif"/>
-</div>
-
-<style>
-.cyber-profile {
-  display: flex;
-  gap: 2rem;
-  align-items: center;
-}
-
-.cyber-content {
-  flex: 1;
-}
-
-.hologram {
-  top
-  height: 100%;
-  width: auto;
-  object-fit: contain;
-  max-height: 170px;
-  margin-top: 18px;
-}
-
-/* Tablet & Desktop (side by side) */
-@media (min-width: 701px) {
-  .cyber-content {
-    justify-content: space-between;
-  }
-  
-}
-
-/* Mobile (centered stack) */
-@media (max-width: 700px) {
-  .cyber-profile {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 5px;
-    text-align: center;
-  }
-
-  .hologram {
-    height: 100%;
-    width:65%;
-    max-height: none;
-    max-width: 100%;
-    margin: 5px;
-  }
-}
-</style>
-
---->
-
 
 <!-- Profile Section -->
-<table>
+<table width="100%" cellpadding="15" cellspacing="0">
   <tr>
-    <td width="170" align="center">
-      <img src="./mayank123.png" alt="profile" width="160" height="150" style="border-radius: 50%">
+    <td width="30%" align="center" valign="top">
+      <img src="./mayank123.png" alt="Mayank Pratap Singh - Steel Troops" width="180" height="180" style="border-radius: 50%; border: 3px solid #6B73FF; box-shadow: 0 0 15px rgba(107, 115, 255, 0.3);">
     </td>
-    <td align="left">
-      <h2>零 Mayank Pratap Singh</h2>
-      
-> AI x Fullstack x Robotics Dev | 未来を作る | 10k+ Tech Twitter 
+    <td width="70%" align="left" valign="center">
+      <h1 style="margin: 0; color: #2D3748;">零 Mayank Pratap Singh</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=false&vCenter=false&random=false&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
-    </td>
-  </tr>
-</table>
+> **22 | e/λ | ml · swe · ロボ · qmech | intj · 🐈‍⬛ | ex-@orbitxindia | 8x hackathon wins**
 
-### 🌐 Neural Interface Loading...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6B73FF&center=false&vCenter=false&random=false&width=550&lines=Founder+%E2%80%A2+NeuraForge+%7C+Strategic+Builder;Quantum+Computing+%E2%80%A2+AI+Research;Crafting+Elegant+Solutions;Minimalist+Code+%E2%80%A2+Maximum+Impact;Building+Tomorrow%27s+Technology)](https://git.io/typing-svg)
 
-<!-- Neural Interface Section -->
-<table>
-  <tr>
-    <td width="400" align="left">
+**`Founder - NeuraForge | Strategic Technology Development`**
 
-```css
-      STATUS: OPERATIONAL
-      ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
-      MISSION: PUSHING TECH BOUNDARIES
-      FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
-      LANGUAGES: ["English", "Hindi", "中文", "日本語"]
-```
-
-</td>
-    <td width="200" align="center"   > 
-      <img src="./Hodaka.gif"  alt="Cyberpunk Vibes" width="200">
 </td>
 
   </tr>
 </table>
 
-<!-- Profile Section -->
-<!---
-<div align="center" style="max-width: 1200px; margin: 0 auto; padding: 20px;">
+### 🌙 Current Status
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; margin: 1rem 0;">
-    <img src="./mayank123.png" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
-    
-  <div style="max-width: 600px;">
+<table width="100%" cellpadding="20" cellspacing="0" style="margin: 20px 0;">
+  <tr>
+    <td width="55%" align="left" valign="top">
 
-## 零 Mayank Pratap Singh
-
-> **AI x Fullstack x Robotics Dev** | 未来を作る | 10k+ Tech Twitter
-      
-  <div style="margin: 1rem 0;">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F6FF&center=true&vCenter=true&width=435&lines=AI+%2B+Fullstack+%2B+Robotics+Engineer;Game+Dev+%2B+VR+Innovator;Research+Pioneer+%2B+Tech+Lead)](https://git.io/typing-svg)
-  </div>
-  </div>
-  </div>
-
-<div style="display: flex; flex-wrap: wrap-reverse; gap: 2rem; justify-content: center; align-items: center; margin-top: 2rem;">
-  <div style="flex: 1; min-width: 300px;">
-    <h3>🌐 Neural Interface Loading...</h3>
-    <pre style="background-color: #161B22; padding: 1em; border-radius: 8px; color: #00F6FF;">
-
-```css
-STATUS: OPERATIONAL
-ROLE: AI/FULLSTACK/ROBOTICS ARCHITECT
-MISSION: PUSHING TECH BOUNDARIES
-FOLLOWERS: 10K+ TWITTER CYBER ENTHUSIASTS
+```yaml
+STATUS: Active & Building
+ROLE: Founder • Developer • Researcher
+MISSION: Crafting elegant technology solutions
+EXPERTISE: ["AI/ML", "Robotics", "Web", "XR", "Quantum"]
 LANGUAGES: ["English", "Hindi", "中文", "日本語"]
+ACHIEVEMENTS: 8x Hackathon Winner
+LOCATION: New Delhi, India
+CURRENT: NeuraForge Decentralized Research Platform
+PERSONALITY: INTJ • Strategic • Minimalist
 ```
 
-  </pre>
-  </div>
-  
-  <img src="./Hodaka.gif" alt="Cyberpunk Vibes" style="max-width: 300px; width: 100%; height: auto; border-radius: 8px; margin-top: 50px;">
-</div>
-</div>
---->
+</td>
+    <td width="45%" align="center" valign="center">
+      <img src="https://raw.githubusercontent.com/steeltroops-ai/steeltroops-ai/main/Hodaka.gif" alt="Aesthetic Vibes" width="280" style="border-radius: 15px; border: 2px solid #9F7AEA;">
+    </td>
+  </tr>
+</table>
 
-### 🎯 Current Missions
-- 🤖 Developing cutting-edge robotics systems with advanced autonomous capabilities
-- 🌌 Building bridges between AI and interactive web platforms
-- 🔮 Exploring the convergence of machine learning and distributed systems
-- 🛡️ Contributing to open-source projects that reshape reality
+### 🎯 Current Focus
 
-### 🧪 Lab Projects
-- Autonomous navigation systems for next-gen robotics
-- AI-powered web applications that push boundaries
-- Large-scale distributed systems for real-world impact
-- Machine learning architectures that break limits
+<table width="100%" cellpadding="25" cellspacing="0" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="left" valign="top" style="border-right: 2px solid #9F7AEA;">
 
-### 💻 Tech Arsenal
+**🚀 NeuraForge**
+
+- Building decentralized research platform
+- Strategic technology development
+- Leading efficient development processes
+
+**🤖 Robotics & AI**
+
+- Autonomous navigation systems
+- Sensor fusion & control algorithms
+- Human-robot interaction design
+
+    </td>
+    <td width="50%" align="left" valign="top" style="padding-left: 25px;">
+
+**🧠 Research & Innovation**
+
+- Quantum-classical hybrid models
+- Distributed machine learning systems
+- Computer vision applications
+
+**🌐 Community & Growth**
+
+- Contributing to meaningful projects
+- Building elegant developer tools
+- Strategic mentoring & knowledge sharing
+
+      </td>
+
+    </tr>
+  </table>
+
+### 💻 Technical Stack
 
 ```python
-def cyber_stack():
-    return {        
-        "web_dev": {
-            "frontend": ["React", "Next.js", "TailwindCSS"],
-            "backend": ["Node.js", "NestJS", "MongoDB"],
-            "tools": ["AWS", "Git", "Docker", "Linux"]
-        },
-        "ai_ml": {
-            "frameworks": ["PyTorch", "TensorFlow"],
-            "vision": ["OpenCV", "YOLO"],
-            "nlp": ["Transformers", "BERT"]
-        },
-        "robotics": {
-            "core": ["ROS2", "Advanced Motion Planning"],
-            "vision": ["Computer Vision", "Sensor Fusion"],
-            "ai": ["Autonomous Systems", "Real-time Control"]
-        },
-    }
+class TechStack:
+    def __init__(self):
+        self.languages = ["Python", "C++", "Java", "Go", "JavaScript", "TypeScript"]
+        self.quantum_computing = ["Qiskit", "Cirq", "PennyLane", "Quantum Algorithms"]
+        self.domains = {
+            "ai_ml": ["PyTorch", "TensorFlow", "Scikit-learn", "OpenCV", "Transformers"],
+            "robotics": ["ROS2", "Gazebo", "MoveIt", "OpenRAVE", "PCL", "SLAM"],
+            "web_development": ["React", "Next.js", "Node.js", "NestJS", "TailwindCSS"],
+            "xr_development": ["Unity", "Unreal Engine", "OpenXR", "WebXR", "A-Frame"],
+            "quantum_systems": ["Quantum Computing", "Hybrid Algorithms", "NISQ Devices"],
+            "infrastructure": ["Docker", "Kubernetes", "AWS", "GCP", "Git", "Linux"]
+        }
+        self.approach = ["Strategic Architecture", "Elegant Solutions", "Research-Driven"]
+
+    def current_focus(self):
+        return "Building at the intersection of AI, Robotics, and Quantum Computing"
+
+    def philosophy(self):
+        return "Minimalist code. Maximum impact. Strategic innovation."
 ```
 
+### 📈 System Metrics & Neural Analytics
 
-
-
-### 📈 System Metrics & Stats
 <div align="center">
 
-<a href="https://github.com/steeltroops-ai">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steeltroops-ai&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steeltroops-ai&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steeltroops-ai&theme=2077" height="176em" />
+<table cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steeltroops-ai&theme=2077" height="180" style="border-radius: 10px;" />
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steeltroops-ai&theme=2077" height="180" style="border-radius: 10px;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steeltroops-ai&theme=2077" height="180" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
-
-
-
-
-### 🎵 Neural Soundscape
+### 🎵 Neural Soundscape & Power Source
 
 <div align="center">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31kcq3r4acb4sr4xghbkh2p5bjru&unique=true)](https://open.spotify.com/user/31kcq3r4acb4sr4xghbkh2p5bjru)
+<table cellpadding="15" cellspacing="0">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎧 Currently Vibing To:</h4>
+      <a href="https://open.spotify.com/user/31kcq3r4acb4sr4xghbkh2p5bjru">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kcq3r4acb4sr4xghbkh2p5bjru&unique=true" alt="Spotify" style="border-radius: 10px;">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h4>☕ Fuel the Neural Network:</h4>
+      <a href="https://ko-fi.com/steeltroops">
+        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Fuel the Matrix" style="border-radius: 10px;">
+      </a>
+      <br><small><em>Keep the quantum algorithms running! ⚡</em></small>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+### � Connect & Collaborate
 
-
-### ☕ Power Source
-
-<p align="center">
-  <a href="https://ko-fi.com/steeltroops"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Fuel the Matrix"></a>
-  <h6 align="center" >drink a coffee with me to keep the matrix running! ☕︎  </p>
-</h6>
-
-
-
-
-### 🌀 Access Points
 <div align="center">
-
-<a href="https://twitter.com/steeltroops_ai">
-<img align="center" src="https://img.shields.io/badge/-@steeltroops__ai-1DA1F2?style=flat&logo=twitter&logoColor=white" height="20em" />
-
-<a href="https://www.linkedin.com/in/steeltroops-ai">
-<img align="center" src="https://img.shields.io/badge/-steeltroops--ai-0077B5?style=flat&logo=linkedin&logoColor=white" height="20em" />
-
-<a href="https://discord.com/users/949339963776974892">
-<img align="center" src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=whit" height="20em" />
 
 <a href="https://bento.me/steeltroops">
-<img align="center" src="https://img.shields.io/static/v1?message=Portfolio&logo=linktree&label=&color=skyblue&logoColor=white&labelColor=&style=for-the-badge" height="20em" />
-
+<img src="https://img.shields.io/badge/Portfolio-4A5568?style=flat&logo=firefox&logoColor=white" height="25" />
+</a>
+<a href="https://github.com/steeltroops-ai">
+<img src="https://img.shields.io/badge/GitHub-2D3748?style=flat&logo=github&logoColor=white" height="25" />
+</a>
+<a href="https://twitter.com/steeltroops_ai">
+<img src="https://img.shields.io/badge/Twitter-4299E1?style=flat&logo=twitter&logoColor=white" height="25" />
+</a>
+<a href="https://www.linkedin.com/in/steeltroops-ai">
+<img src="https://img.shields.io/badge/LinkedIn-3182CE?style=flat&logo=linkedin&logoColor=white" height="25" />
+</a>
+<a href="https://medium.com/@steeltroops">
+<img src="https://img.shields.io/badge/Medium-1A202C?style=flat&logo=medium&logoColor=white" height="25" />
+</a>
+<a href="https://discord.com/users/949339963776974892">
+<img src="https://img.shields.io/badge/Discord-9F7AEA?style=flat&logo=discord&logoColor=white" height="25" />
+</a>
+<a href="https://anilist.co/user/steeltroops/animelist">
+<img src="https://img.shields.io/badge/AniList-4FD1C7?style=flat&logo=anilist&logoColor=white" height="25" />
+</a>
+<a href="https://ko-fi.com/steeltroops">
+<img src="https://img.shields.io/badge/Ko--fi-E53E3E?style=flat&logo=ko-fi&logoColor=white" height="25" />
+</a>
 
 </div>
 
-### 🎬 Anime Database
-<p align="center">
-  <a href="https://anilist.co/user/steeltroops/animelist"><img src="./eghha9ij72881.webp" alt="アニメデータベース"></a>
-</p>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://komarev.com/ghpvc/?username=steeltroops-ai&label=Visitors&color=6B73FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/steeltroops-ai?label=Followers&style=flat&color=9F7AEA" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Status-Building%20Elegantly-4FD1C7?style=flat" alt="Status" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### � Beyond Code
+
+<div align="center">
+
+<table cellpadding="15" cellspacing="0">
+  <tr>
+    <td align="center" width="40%">
+      <h4>When not building:</h4>
+      <p>🎮 <strong>Strategic Gaming</strong> • 🎵 <strong>Ambient Music</strong> • 📚 <strong>Philosophy</strong> • 🎬 <strong>Thoughtful Cinema</strong></p>
+      <br>
+      <em><strong>"Simplicity is the ultimate sophistication."</strong></em> ✨
+      <br><br>
+      <code>Crafting elegant solutions, one line at a time.</code>
+    </td>
+    <td align="center" width="60%">
+      <a href="https://anilist.co/user/steeltroops/animelist">
+        <img src="./eghha9ij72881.webp" alt="Aesthetic Collection" width="450" style="border-radius: 15px; border: 2px solid #9F7AEA; opacity: 0.9;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px; opacity: 0.8;">
+
+<br>
+
+**⭐ Star repositories that resonate with you | 🤝 Let's create something meaningful**
+
+<br>
+
+<img src="https://img.shields.io/badge/Crafted%20with-🖤%20%26%20☕-4A5568?style=for-the-badge" alt="Made with care and coffee" />
+
+</div>
