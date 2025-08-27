@@ -38,7 +38,6 @@ MISSION: Crafting elegant technology solutions
 EXPERTISE: ["AI/ML", "Robotics", "Web", "XR", "Quantum"]
 LANGUAGES: ["English", "Hindi", "中文", "日本語"]
 ACHIEVEMENTS: 8x Hackathon Winner
-LOCATION: New Delhi, India
 CURRENT: NeuraForge Decentralized Research Platform
 PERSONALITY: INTJ • Strategic • Minimalist
 ```
