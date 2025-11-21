@@ -35,6 +35,7 @@
 
 </td>
 <td width="35%" valign="top">
+<br>
 
 <img src="./Hodaka.gif" alt="Vibes" width="100%">
 
