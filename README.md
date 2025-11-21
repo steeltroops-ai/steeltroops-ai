@@ -12,20 +12,14 @@
 
 > **22 | e/λ | ml · swe · robotics | intj · 🐈‍⬛**
 
+- I read research papers for fun
+- I like building things that shouldn't exist yet
+- I enjoy terminals, small tools, and clean architectures
+- I like breaking ideas apart until they reveal their real form
+
 <br>
 
-<a href="https://bento.me/steeltroops"><img src="https://img.shields.io/badge/Bento-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white"></a>
- 
-
-
-**About:**
-- 🐈‍⬛ INTJ
-- Minimalist 
-- Strategic
-
-
-
-**Core Skills:**
+> **Core Skills:**
 
 **Languages:** Python, C++, TypeScript, JavaScript, Java, Go
 
@@ -37,7 +31,7 @@
 
 **Tools:** AWS, GCP, Docker, Linux, Git
 
->Engineering is the closest thing we have to rewriting reality
+> Philosophy: Engineering is the closest thing we have to rewriting reality
 
 </td>
 <td width="35%" valign="top">
@@ -46,17 +40,21 @@
 
 <br>
 
-**Languages:**
-- English 
-- Japanese 
-- Chinese 
-- Hindi
+<a href="https://bento.me/steeltroops"><img src="https://img.shields.io/badge/Bento-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white"></a>
+
+<br>
+
+**About:**
+- INTJ 🐈‍⬛
+- Loves building
+- Loves research
+- Strategic thinker
+- Minimalist approach
 
 **Achievements:**
 - 8x Hackathon Winner
 - Founded startup
 - 7k+ tech community
-
 
 </td>
 </tr>
@@ -64,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
