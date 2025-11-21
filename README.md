@@ -44,7 +44,6 @@
 
 <a href="https://bento.me/steeltroops"><img src="https://img.shields.io/badge/Bento-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white"></a>
 
-<br>
 
 **About:**
 - INTJ 🐈‍⬛
