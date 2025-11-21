@@ -8,10 +8,20 @@
 <tr>
 <td width="65%" valign="top">
 
-## Hey, this is Mayank and you can call me May
+## Hey, this is Mayank but you can call me May
 
 > **22 | e/λ | ml · swe · robotics | intj · 🐈‍⬛**
 
+<br>
+
+<a href="https://bento.me/steeltroops"><img src="https://img.shields.io/badge/Bento-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white"></a>
+ 
+
+
+**About:**
+- 🐈‍⬛ INTJ
+- Minimalist 
+- Strategic
 
 
 
@@ -35,20 +45,12 @@
 <img src="./Hodaka.gif" alt="Vibes" width="100%">
 
 <br>
-<a href="https://bento.me/steeltroops"><img src="https://img.shields.io/badge/Bento-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white"></a>
- 
-<br>
-
-**About:**
-- 🐈‍⬛ INTJ
-- Minimalist 
-- Strategic
 
 **Languages:**
-- English (Professional)
-- Japanese (N5)
-- Chinese (Beginner)
-- Hindi (Native)
+- English 
+- Japanese 
+- Chinese 
+- Hindi
 
 **Achievements:**
 - 8x Hackathon Winner
@@ -62,36 +64,25 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  
-<a href="https://github.com/steeltroops-ai">
-  <img src="https://github-readme-stats.vercel.app/api?username=steeltroops-ai&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/steeltroops-ai">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeltroops-ai&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" alt="Top Languages" />
-</a>
-
-</div>
-
-<div align="center">
-  
-<a href="https://github.com/steeltroops-ai">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steeltroops-ai&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="98%" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
-## Currently Listening
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/31kcq3r4acb4sr4xghbkh2p5bjru">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kcq3r4acb4sr4xghbkh2p5bjru&unique=true" alt="Spotify">
-</a>
+<table cellpadding="12" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steeltroops-ai&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steeltroops-ai&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steeltroops-ai&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
